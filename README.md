@@ -7,3 +7,7 @@ Proyecto realizado para el curso de compiladores del primer semestre de la Unive
 - Javascript JS.
 - JQuery.
 - Angular 9.
+
+## Uso
+
+Para utilizar la webapp solo es necesario ejecutar el archivo index.html de la carpeta public (1analizador_lex\public).
