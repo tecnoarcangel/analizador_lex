@@ -10,4 +10,4 @@ Proyecto realizado para el curso de compiladores del primer semestre de la Unive
 
 ## Uso
 
-Para utilizar la webapp solo es necesario ejecutar el archivo index.html de la carpeta public (1analizador_lex\public).
+Para utilizar la webapp solo es necesario ejecutar el archivo index.html de la carpeta public (analizador_lex\public).
